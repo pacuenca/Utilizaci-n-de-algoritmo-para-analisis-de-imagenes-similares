@@ -1,0 +1,2 @@
+# Utilizaci-n-de-algoritmo-para-analisis-de-imagenes-similares
+Este proyecto se realizó en el componente de Gestión Productiva 3.2 de la Universidad Técnica Particular de Loja, el cual consiste en utilizar algoritmos para realizar una nalisis de un conjunto de imagenes que estan en formato json, las mismas que son consumidas de la red social Twiter, y poder detectar las imagenes que son similares, el mismo esta realizado en el lenguaje JAVA.
